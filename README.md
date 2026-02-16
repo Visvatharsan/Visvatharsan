@@ -2,7 +2,7 @@ Hi, I’m @Visvatharsan
 - 👀 I’m interested in Full Stack Web Development and cloud computing.
 - 🌱 I’m currently pursuing B.Tech in Computer Science Engineering.
 - 💞️ I’m looking to collaborate on Github.
-- 📫 You reach me via github or instagram (its._.visva).
+- 📫 You reach me via githu or linkedIn (Visvatharsan Saravanan)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The term “bug” to describe a glitch in a system originated when a moth caused a malfunction in an early computer.
 
