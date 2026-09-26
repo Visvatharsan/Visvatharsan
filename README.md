@@ -56,16 +56,6 @@ I'm a B.Tech Computer Science and Engineering student at **Lovely Professional U
 
 </div>
 
-## Highlights
-
-<table>
-  <tr>
-    <td align="center">🏆<br /><strong>Top 7</strong><br />Inter-College Arena Hackathon</td>
-    <td align="center">🔥<br /><strong>50 days</strong><br />LeetCode coding streak</td>
-    <td align="center">🎓<br /><strong>8.22 CGPA</strong><br />B.Tech CSE</td>
-  </tr>
-</table>
-
 ### Certifications
 
 <p>
